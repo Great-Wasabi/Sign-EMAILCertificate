@@ -1,5 +1,6 @@
 # Sign-EMAILCertificate
 Signing Email Certificate using python and smail
+
 Sign-EMAILCertificate is a Python project designed to simplify the process of sending signed emails using OpenSSL, the Python programming language, and the smail library. This project provides a convenient and straightforward way to generate private keys, certificate signing requests (CSR), and certificates using OpenSSL, and then utilize them to send signed emails via an SMTP server.
 
 Features:
